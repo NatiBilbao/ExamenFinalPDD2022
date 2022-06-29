@@ -49,7 +49,7 @@ public class Usuario {
         System.out.println("Numero de usuario: "+ id);
         System.out.println("Nombre: "+ nombre);
         System.out.println("Nickname: "+ nickname);
-        System.out.println("Contraseña: "+ password);
+        System.out.println("Contrasena: "+ password);
         System.out.println();
     }
 }
