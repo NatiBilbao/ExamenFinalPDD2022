@@ -16,6 +16,7 @@ public class Celular implements ICelular {
     }
     @Override
     public int getPrecioTotal() {
+
         return precioInicial;
     }
     @Override
@@ -25,6 +26,7 @@ public class Celular implements ICelular {
     }
     @Override
     public int getAlmacenamientoTotal() {
+
         return almacenamiento;
     }
 }
